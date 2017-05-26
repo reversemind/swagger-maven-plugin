@@ -1,3 +1,13 @@
+!!! WARNING !!!
+
+need to fix Spring Boot Rest 
+
+@RequestMapping( value = "/value",
+
+alias for path 
+
+@RequestMapping( path = "/value", - does not working
+
 # Swagger Maven Plugin 
 [![Build Status](https://travis-ci.org/kongchen/swagger-maven-plugin.png)](https://travis-ci.org/kongchen/swagger-maven-plugin)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.kongchen/swagger-maven-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.kongchen/swagger-maven-plugin)
